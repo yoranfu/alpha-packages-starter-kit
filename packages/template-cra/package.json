@@ -1,0 +1,14 @@
+{
+  "name": "template-cra",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "alpha-scripts": "1.2.0"
+  },
+  "scripts": {
+    "start": "alpha-scripts start",
+    "build": "alpha-scripts build"
+  }
+}
