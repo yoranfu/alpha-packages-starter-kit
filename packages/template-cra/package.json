@@ -11,6 +11,7 @@
   },
   "scripts": {
     "start": "alpha-scripts start",
-    "build": "alpha-scripts build"
+    "build": "alpha-scripts build",
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
