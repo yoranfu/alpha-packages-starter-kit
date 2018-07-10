@@ -1,0 +1,11 @@
+# /node_modules/* and /bower_components/* ignored by default
+**/node_modules/*
+# Ignore built files except build/index.js
+**/dist/*
+**/build/*
+**/devtools/*
+**/public/*
+**/assets/*
+**/vendor/*
+**/flow/*
+**/flow-typed/*
