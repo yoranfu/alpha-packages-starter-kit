@@ -1,9 +1,12 @@
 .idea/
 .vscode/
 node_modules/
+flow-typed/
 build
 .DS_Store
 *.tgz
+*.rar
+*.zip
 template/src/__tests__/__snapshots__/
 lerna-debug.log
 npm-debug.log*
